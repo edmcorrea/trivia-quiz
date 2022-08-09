@@ -97,7 +97,7 @@ describe('6 - [TELA DE JOGO] Crie a página de jogo que deve conter as informaç
     });
   });
 
-  it('Será validado se as alternativas estão posicionadas em ordem aleatória', () => {
+  it.only('Será validado se as alternativas estão posicionadas em ordem aleatória', () => {
     const answersList = [];
     cy.get(ALL_ALTERNATIVES_SELECTOR).then(() => {
       for (let i = 0; i < 5; i += 1) {
