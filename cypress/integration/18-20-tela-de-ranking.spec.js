@@ -50,7 +50,7 @@ describe('18 - [TELA DE RANKING] Crie um botão para ir ao início', () => {
   });
 });
 
-describe('19 - [TELA DE RANKING] Crie o conteúdo da tela de _ranking_', () => {
+describe.only('19 - [TELA DE RANKING] Crie o conteúdo da tela de _ranking_', () => {
   beforeEach(() => {
     cy.visit('http://localhost:3000/', {
       onBeforeLoad(win) {

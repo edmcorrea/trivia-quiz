@@ -105,13 +105,11 @@ describe('6 - [TELA DE JOGO] Crie a página de jogo que deve conter as informaç
         cy.get(ALL_ALTERNATIVES_SELECTOR).then((newAnswersSection) => {
           const newAnswers = Array.from(newAnswersSection.children()).map((answer) => answer.dataset.testid);
           const currentIndex = newAnswers.indexOf('correct-answer');
-          // console.log('String', currentIndex);
           answersList.push(currentIndex);
         });
       };
     }).then(() => {
       const removeRepeatedList = [...new Set(answersList)];
-      // console.log(removeRepeatedList);
       expect(removeRepeatedList.length).to.be.greaterThan(1);
     });
   });
