@@ -59,7 +59,7 @@ O layout teve como foco página web, então todos os protótipos vão estar dese
 
 <!-- * [![Next][Next.js]][Next-url] -->
 * [![React][React.js]][React-url]
-* [![React][Redux.js]][React-url]
+<!-- * [![React][Redux.js]][React-url] -->
 <!-- * [![Vue][Vue.js]][Vue-url] -->
 <!-- * [![Angular][Angular.io]][Angular-url] -->
 <!-- * [![Svelte][Svelte.dev]][Svelte-url] -->
@@ -101,5 +101,5 @@ Link do Projeto: https://github.com/edmcorrea/trivia-quiz
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[Redux.js]: https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[Redux.js]: https://img.shields.io/badge/Redux-663399?style=for-the-badge&logo=react&logoColor=white
 [React-url]: https://reactjs.org/
