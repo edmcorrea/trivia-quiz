@@ -10,13 +10,13 @@
     <p align="center"> Teste seus conhecimentos.</p>
   
   <p align="center">
-    <img width="700" height="400" src="src/images/para-gif-spotunes.gif">
+    <img width="700" height="400" src="src/images/gif.gif">
   </p>
   
   <br />
   
   <p align="center">
-    <a href="https://projeto-music-stream-spotunes.vercel.app/"><strong>Navegue na versão demo web »</strong></a>
+    <a href="https://trivia-quiz-xi.vercel.app/"><strong>NAVEGUE NA VERSÃO DEMO WEB »</strong></a>
   </p>
 </div>
 
