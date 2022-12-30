@@ -101,5 +101,5 @@ Link do Projeto: https://github.com/edmcorrea/trivia-quiz
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[Redux.js]: https://img.shields.io/badge/React-Redux-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[Redux.js]: https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
