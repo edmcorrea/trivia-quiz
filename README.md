@@ -43,9 +43,9 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Desenvolvi uma página / plataforma de músicas, utilizando o ecossistema React!
+Desenvolvemos uma página / plataforma de jogo, utilizando o ecossistema React!
 
-O app consiste em um sistema que permite jogar e rankear os usuários. 
+Desenvolvido em equipe, o app consiste em um sistema que permite jogar e rankear os usuários. 
 A base de dados foi a 1 API de Quiz.
 O layout teve como foco página web, então todos os protótipos vão estar desenvolvidos em telas menores.
 
@@ -59,7 +59,7 @@ O layout teve como foco página web, então todos os protótipos vão estar dese
 
 <!-- * [![Next][Next.js]][Next-url] -->
 * [![React][React.js]][React-url]
-<!-- * [![React][Redux.js]][React-url] -->
+* [![React][Redux.js]][React-url]
 <!-- * [![Vue][Vue.js]][Vue-url] -->
 <!-- * [![Angular][Angular.io]][Angular-url] -->
 <!-- * [![Svelte][Svelte.dev]][Svelte-url] -->
