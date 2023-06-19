@@ -1,4 +1,4 @@
-# Spotunes-music-stream-project
+# TRIVIA QUIZ
 <!-- Improved compatibility of back to top link: See: https://github.com/edmcorrea/project-app-de-receitas--/blob/main/README.md -->
 <a name="readme-top"></a>
 
